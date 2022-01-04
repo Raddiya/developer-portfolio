@@ -13,6 +13,7 @@ h1{
     }
     .half-width{width:50%;
         padding-left:3%;
+        
     }
     .half-width img{
         width:80% ;
@@ -34,5 +35,34 @@ h1{
         background-repeat: no-repeat;
         background-position-x:right;
 
-    }
+    }.orange-color{
+color: gold;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    box-shadow:10px 10px 40px lawngreen;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+   ;
+}
+#web-1{border-image:linear-gradient(red,orange) ;
+    border-left: 7px solid;
+    border-image-slice:1 ;
+}
+    
+#web-2{border-image:linear-gradient(red,orange) ;
+    border-left: 7px solid;
+    border-image-slice:1 ;
+}
+footer p{
+    text-align: center;
+}
+
+
 
