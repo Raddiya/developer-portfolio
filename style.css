@@ -49,17 +49,14 @@ color: gold;
     margin-right: 5%;
     padding-left: 10px;
     border-radius: 10px;
-   ;
-}
-#web-1{border-image:linear-gradient(red,orange) ;
+   
+   border-image:linear-gradient(red,orange) ;
     border-left: 7px solid;
     border-image-slice:1 ;
 }
+
     
-#web-2{border-image:linear-gradient(red,orange) ;
-    border-left: 7px solid;
-    border-image-slice:1 ;
-}
+
 footer p{
     text-align: center;
 }
